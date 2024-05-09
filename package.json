@@ -1,5 +1,6 @@
 {
   "name": "test-todolist",
+  "homepage": "http://dyamorph.github.io/test-todolist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
